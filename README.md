@@ -7,8 +7,7 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 ## Problem Statement and Dataset
 To develop a deep neural network to accurately identify malaria-infected cells in microscopic blood images. This automated system should achieve high performance in diagnosis, improve treatment decisions, and potentially be deployed in resource-limited settings.Your task would be to optimize the model, possibly by tuning hyperparameters, trying different architectures, or using techniques like transfer learning to improve classification accuracy.
 ## Neural Network Model
-
-Include the neural network model diagram.
+![image5](https://github.com/user-attachments/assets/28f45165-e5f3-4be5-b0c1-17157f509bbb)
 
 ## DESIGN STEPS
 
