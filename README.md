@@ -1,4 +1,4 @@
-# Deep Neural Network for Malaria Infected Cell Recognition
+# EX 4 Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM
 
